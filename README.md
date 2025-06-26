@@ -25,7 +25,7 @@ This project is currently in its **early stages of development**, but it's alrea
 
 Here's a glimpse of the Kanban System in action, including its customizable features and Scene View overlay.
 
-[![Watch the demo video](https://github.com/SemihKC94/kanban-board-system/blob/main/Content/3.png)](https://github.com/SemihKC94/kanban-board-system/blob/main/Content/KanbanOnboarding.mp4)
+[![Watch the demo video](https://github.com/SemihKC94/kanban-board-system/blob/main/Content/3.png)](https://github.com/SemihKC94/kanban-board-system/raw/refs/heads/main/Content/KanbanOnboarding.mp4)
 *(Click the image above to watch the 4-minute demo video!)*
 
 ---
