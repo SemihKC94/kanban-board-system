@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 735883a363e36b440834e0d4d64fe3e1, type: 3}
+  m_Name: KanbanSettings
+  m_EditorClassIdentifier: 
+  toDoColumnColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.5}
+  inProgressColumnColor: {r: 0.8, g: 0.8, b: 0.5, a: 0.5}
+  doneColumnColor: {r: 0.5, g: 0.8, b: 0.5, a: 0.5}
+  toDoHeaderColor: {r: 0, g: 0, b: 0, a: 1}
+  inProgressHeaderColor: {r: 0, g: 0, b: 0, a: 1}
+  doneHeaderColor: {r: 0, g: 0, b: 0, a: 1}
+  toDoCardColor: {r: 0.48406905, g: 0.81790686, b: 0.9245283, a: 1}
+  inProgressCardColor: {r: 1, g: 0.79240257, b: 0.48627448, a: 1}
+  doneCardColor: {r: 0.10849059, g: 1, b: 0.10849059, a: 1}
+  cardHoverColor: {r: 0.12255252, g: 0.9622642, b: 0.62855005, a: 1}
+  titleTextColor: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 1}
+  cardTitleFontSize: 15
+  titleFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  descriptionTextColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  cardDescriptionFontSize: 12
+  descriptionFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  assignedToColor: {r: 1, g: 0, b: 0.84751415, a: 1}
+  showStatusIcons: 1
+  toDoIcon: {fileID: 2800000, guid: 480c0f1d1e6e9a84aa0e766e47319fd7, type: 3}
+  inProgressIcon: {fileID: 2800000, guid: 8df8001e031f7064f83400880d0f388d, type: 3}
+  doneIcon: {fileID: 2800000, guid: b349a66dcb948e443a78bc2b42df8de6, type: 3}
+  allDevelopers:
+  - {fileID: 11400000, guid: 47e2cf4079c5a784b95d78df7d94b4be, type: 2}
+  - {fileID: 11400000, guid: 142980ec73984cb48b7d7fafb3137b73, type: 2}
+  - {fileID: 11400000, guid: d13896370d9b5c246bcd05f02ec42b53, type: 2}

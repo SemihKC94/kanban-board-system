@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4babc96791764fd41acd58901f05241b, type: 3}
+  m_Name: New KanbanCard 1
+  m_EditorClassIdentifier: 
+  title: Save System
+  description: '*Json Serializer
+
+    *Read Json
+
+    * .....'
+  currentColumn: 1
+  orderIndex: 16
+  assignedTo: {fileID: 11400000, guid: d13896370d9b5c246bcd05f02ec42b53, type: 2}

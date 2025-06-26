@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4babc96791764fd41acd58901f05241b, type: 3}
+  m_Name: New KanbanCard 2
+  m_EditorClassIdentifier: 
+  title: Firebase Integration
+  description: '*Analytic
+
+    *Remote Config
+
+    *......'
+  currentColumn: 1
+  orderIndex: 7
+  assignedTo: {fileID: 11400000, guid: 142980ec73984cb48b7d7fafb3137b73, type: 2}
