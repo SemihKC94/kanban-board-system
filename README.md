@@ -35,7 +35,7 @@ Here's a glimpse of the Kanban System in action, including its customizable feat
 Getting started with the Kanban Board system is straightforward:
 
 1.  **Manual Installation (Unity Package):**
-    * Download the latest `.unitypackage` from the [Releases](link-to-your-releases-page) section (e.g., `Kanban-Board-v0.1.unitypackage`).
+    * Download the latest `.unitypackage` from the [Releases](/releases/tag/Release)) section (e.g., `Kanban-Board-v0.1.unitypackage`).
     * In your Unity project, go to `Assets > Import Package > Custom Package...` and select the downloaded file.
     * Import all necessary files.
 2.  **Create Kanban Settings:**
